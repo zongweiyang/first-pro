@@ -2,7 +2,8 @@
 
 Whaleex public api endpoint
 =================
-***Endpoint 1 : https://www.whaleex.com/BUSINESS/api/v2/public/assets***
+
+### Endpoint 1 : https://www.whaleex.com/BUSINESS/api/v2/public/assets
 
 |S/N	|Field Name	|Example(s)	|Status|
 |----|----|----|----|
@@ -15,7 +16,7 @@ Whaleex public api endpoint
 |7	  |	minWithdrawal |	0.01	    |Recommended|
 
 
-***Endpoint 2: https://www.whaleex.com/BUSINESS/api/v2/public/ticker***
+### Endpoint 2: https://www.whaleex.com/BUSINESS/api/v2/public/ticker
 
 |  S/N   | Field Name  |  Example(s)   | Status  |
 |  ----  | ----  |  ----  | ----  |
@@ -29,7 +30,7 @@ Whaleex public api endpoint
 |8	|tradesEnabled	|True/False	|Mandatory|
 
  
-***Endpoint 3: https://www.whaleex.com/BUSINESS/api/v2/public/trades/`<MarketPair>`***
+### Endpoint 3: https://www.whaleex.com/BUSINESS/api/v2/public/trades/`<MarketPair>`
 
 |  S/N   | Field Name  |  Example(s)   | Status  |
 |  ----  | ----  |  ----  | ----  |
@@ -42,7 +43,7 @@ Whaleex public api endpoint
 |7	|isBuyerMaker	|True/False	|Mandatory|
 
 
-***Endpoint 4: https://www.whaleex.com/BUSINESS/api/v2/public/depth/{MarketPair}***
+### Endpoint 4: https://www.whaleex.com/BUSINESS/api/v2/public/depth/{MarketPair}
 
 |  S/N   | Field Name  |  Example(s)   | Status  |
 |  ----  | ----  |  ----  | ----  |
