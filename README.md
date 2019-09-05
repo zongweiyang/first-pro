@@ -1,7 +1,7 @@
-|  表头   | 表头  |
-|  ----  | ----  |
-| 单元格  | 单元格 |
-| 单元格  | 单元格 |
+|  表头   | 表头  |  表头   | 表头  |
+|  ----  | ----  |  ----  | ----  |
+| 单元格  | 单元格 | 单元格  | 单元格 |
+| 单元格  | 单元格 | 单元格  | 单元格 |
 
 Whaleex public api endpoint
 Endpoint 1 : https://www.whaleex.com/BUSINESS/api/v2/public/assets
