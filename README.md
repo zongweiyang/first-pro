@@ -1,6 +1,6 @@
 
 
-Whaleex public api endpoint
+Whaleex public market related api endpoint
 =================
 
 #### Endpoint 1 : https://www.whaleex.com/BUSINESS/api/v2/public/assets
