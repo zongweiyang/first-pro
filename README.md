@@ -1,10 +1,19 @@
-|  表头   | 表头  |  表头   | 表头  |
-|  ----  | ----  |  ----  | ----  |
-| 单元格  | 单元格 | 单元格  | 单元格 |
-| 单元格  | 单元格 | 单元格  | 单元格 |
+
 
 Whaleex public api endpoint
+=================
 Endpoint 1 : https://www.whaleex.com/BUSINESS/api/v2/public/assets
+----------------
+|  S/N   | Field Name  |  Example(s)   | Status  |
+|  ----  | ----  |  ----  | ----  |
+| 1  | 单元格 | 单元格  | 单元格 |
+| 2  | 单元格 | 单元格  | 单元格 |
+| 3  | 单元格 | 单元格  | 单元格 |
+| 4  | 单元格 | 单元格  | 单元格 |
+| 5  | 单元格 | 单元格  | 单元格 |
+| 6  | 单元格 | 单元格  | 单元格 |
+| 7  | 单元格 | 单元格  | 单元格 |
+
 |S/N	|Field Name	|Example(s)	|Status|
 |----|----|----|----|
 |1	  |<key>	    |BTC, ETH	  | Mandatory|
