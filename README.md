@@ -6,7 +6,7 @@
 Whaleex public api endpoint
 Endpoint 1 : https://www.whaleex.com/BUSINESS/api/v2/public/assets
 |S/N	|Field Name	|Example(s)	|Status|
-|-----|-----------|-----------|------|
+|----|----|----|----|
 |1	  |<key>	    |BTC, ETH	  | Mandatory|
 |2	  |	lastUpdateTimestamp	|2019-06-14T16:46:10.000Z	|Mandatory|
 |3	  |	name	|Bitcoin, Ethereum	|Mandatory  | 
