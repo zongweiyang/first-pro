@@ -6,7 +6,7 @@ Whaleex public api endpoint
 
 |S/N	|Field Name	|Example(s)	|Status|
 |----|----|----|----|
-|1	  |<key>	    |BTC, ETH	  | Mandatory|
+|1	  |`<key>`	    |BTC, ETH	  | Mandatory|
 |2	  |	lastUpdateTimestamp	|2019-06-14T16:46:10.000Z	|Mandatory|
 |3	  |	name	|Bitcoin, Ethereum	|Mandatory  | 
 |4	  |	id    |1	                |Recommended|
@@ -29,7 +29,7 @@ Whaleex public api endpoint
 |8	|tradesEnabled	|True/False	|Mandatory|
 
  
-***Endpoint 3: https://www.whaleex.com/BUSINESS/api/v2/public/trades/{MarketPair}***
+***Endpoint 3: https://www.whaleex.com/BUSINESS/api/v2/public/trades/`<MarketPair>`***
 
 |  S/N   | Field Name  |  Example(s)   | Status  |
 |  ----  | ----  |  ----  | ----  |
