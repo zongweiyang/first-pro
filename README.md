@@ -1,14 +1,15 @@
 Whaleex public api endpoint
 Endpoint 1 : https://www.whaleex.com/BUSINESS/api/v2/public/assets
-S/N	Field Name	Example(s)	Status
-1	<key>	BTC, ETH	Mandatory
-2	lastUpdateTimestamp	2019-06-14T16:46:10.000Z	Mandatory
-3	name	Bitcoin, Ethereum	Mandatory
-4	id
-1	Recommended
-5	canWithdraw	True/False	Recommended
-6	canDeposit	True/False	Recommended
-7	minWithdrawal	0.01	Recommended
+|S/N	|Field Name	|Example(s)	|Status|
+|-----|-----------|-----------|------|
+|1	  |<key>	|BTC, ETH	Mandatory
+|2	  |	lastUpdateTimestamp	|2019-06-14T16:46:10.000Z	Mandatory
+|3	  |	name	|Bitcoin, Ethereum	Mandatory
+|4	  |	id|
+|1	  |	Recommended|
+|5	  |	canWithdraw|	True/False	Recommended
+|6	  |	canDeposit |	True/False	Recommended
+|7	  |	minWithdrawal |	0.01	Recommended
 
 
 Endpoint 2: https://www.whaleex.com/BUSINESS/api/v2/public/ticker
