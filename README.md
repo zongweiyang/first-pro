@@ -30,7 +30,7 @@
   |8	|tradesEnabled	|True/False	|Mandatory|
 
 
-  #### Endpoint 3: https://www.whaleex.com/BUSINESS/api/v2/public/trades/<MarketPair>
+  #### Endpoint 3: https://www.whaleex.com/BUSINESS/api/v2/public/trades/\<MarketPair\>
 
   |  S/N   | Field Name  |  Example(s)   | Status  |
   |  ----  | ----  |  ----  | ----  |
@@ -43,7 +43,7 @@
   |7	|isBuyerMaker	|True/False	|Mandatory|
 
 
-  #### Endpoint 4: https://www.whaleex.com/BUSINESS/api/v2/public/depth/<MarketPair>
+  #### Endpoint 4: https://www.whaleex.com/BUSINESS/api/v2/public/depth/\<MarketPair\>
 
   |  S/N   | Field Name  |  Example(s)   | Status  |
   |  ----  | ----  |  ----  | ----  |
